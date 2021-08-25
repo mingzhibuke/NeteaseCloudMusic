@@ -358,18 +358,4 @@ $ npm test
 ![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot1.png)
 ![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot2.png)
 
-## SDK
 
-| 语言 |                    作者                     |                             地址                             |  类型  |
-| :--: | :-----------------------------------------: | :----------------------------------------------------------: | :----: |
-| Java |    [JackuXL](https://github.com/JackuXL)    | [https://github.com/JackuXL/NeteaseCloudMusicApi-SDK](https://github.com/JackuXL/NeteaseCloudMusicApi-SDK) | 第三方 |
-| Java | [1015770492](https://github.com/1015770492) |       https://github.com/1015770492/yumbo-music-utils        | 第三方 |
-
-## 贡献者
-
-![](https://opencollective.com/NeteaseCloudMusicApi/contributors.svg?width=890)
-
-
-## License
-
-[The MIT License (MIT)](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/LICENSE)
